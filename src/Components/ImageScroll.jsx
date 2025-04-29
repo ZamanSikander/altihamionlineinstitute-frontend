@@ -15,7 +15,7 @@ const images = [
     {
         src: image2,
         alt: "Classroom session",
-        description: "Identifification badge from Egyptian Ministry of Awqaf (Religious Endowments for a Quran competitionl."
+        description: "Identification badge from Egyptian Ministry of Awqaf (Religious Endowments for a Quran competitionl)."
     },
     
     {
